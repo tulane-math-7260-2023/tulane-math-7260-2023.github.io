@@ -11,16 +11,14 @@ The term “linear models” describes a wide class of methods for the statistic
 
 Lectures: 
 
-- Mon/Wed, 11:00 am - 11:50 am Howard-Tilton Memorial Library 116 with zoom link: <https://tulane.zoom.us/j/94748340296>
-- Fri, 11:00 am - 11:50 am with zoom link: <https://tulane.zoom.us/j/96583956151>
-
+- Mon/Wed/Fri, 9:00 am - 9:50 am Gibson Hall 126 with zoom link: <https://tulane.zoom.us/j/91380486474>
 
 ## Instructor
 
 [Dr. Xiang Ji](https://sse.tulane.edu/math/faculty/ji)\
 Office: Gibson 401D\
 Email: <xji4@tulane.edu>\
-Office hours: Friday 9:45 am - 10:45 am with zoom link: <https://tulane.zoom.us/j/97602892460>, or by appointment.
+Office hours: by appointment.
 
 
 ## Acknowledgement

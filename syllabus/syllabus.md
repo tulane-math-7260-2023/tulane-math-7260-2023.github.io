@@ -3,7 +3,7 @@ layout: course
 title: Math 6040/7260
 ---
 
-# Math 6040/7260 - Linear Models - Spring 2022
+# Math 6040/7260 - Linear Models - Spring 2023
 
 ## Syllabus
 
@@ -13,16 +13,14 @@ The term “linear models” describes a wide class of methods for the statistic
 
 ### Lecture and Practicals
 
-Mon 11:00am - 11:50am @ Howard-Tilton Memorial Library 116 and Zoom <https://tulane.zoom.us/j/94748340296>\
-Wed 11:00am - 11:50am @ Howard-Tilton Memorial Library 116 and Zoom <https://tulane.zoom.us/j/94748340296>\
-Fri 11:00am - 11:50am @ Zoom <https://tulane.zoom.us/j/96583956151>
+Mon/Wed/Fri 9:00am - 9:50am @ Gibson Hall 126 and Zoom <https://tulane.zoom.us/j/91380486474>
 
 ### Instructor
 
 [Dr. Xiang Ji](https://sse.tulane.edu/math/faculty/ji)\
 Office: Gibson 401D\
 Email: <xji4@tulane.edu>\
-Office hours: Friday 9:45 am - 10:45 am with zoom link: <https://tulane.zoom.us/j/97602892460>, or by appointment.
+Office hours: by appointment.
 
 
 ### Textbooks
@@ -39,7 +37,7 @@ with supplements of
 
 ### Course Webpage
 
-<https://tulane-math-7260-2022.github.io/>
+<https://tulane-math-7260-2023.github.io/>
 
 ### ADA/Accessibility Statement
 
