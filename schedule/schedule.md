@@ -27,3 +27,4 @@ Topics:
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
 | | **01/18** Intro | **01/20** Git | |
+| **01/23** linear algebra review | | | [HW1](../HW/HW1/HW1.pdf) |
