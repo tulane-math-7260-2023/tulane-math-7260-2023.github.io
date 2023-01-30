@@ -28,3 +28,4 @@ Topics:
 |:-----------|:-----------|:------------|:---|
 | | **01/18** Intro | **01/20** Git | |
 | **01/23** linear algebra review | **01/25** probability review  | **01/27** R basics \[[Rmd](../notes/Lecture5/R.Rmd)\]\[[HTML](../notes/Lecture5/R.html)\] | [HW1](../HW/HW1/HW1.pdf) |
+| **01/30** R basics | | | |
