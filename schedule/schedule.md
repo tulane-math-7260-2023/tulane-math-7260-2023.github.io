@@ -29,5 +29,5 @@ Topics:
 | | **01/18** Intro | **01/20** Git | |
 | **01/23** linear algebra review | **01/25** probability review  | **01/27** R basics \[[Rmd](../notes/Lecture5/R.Rmd)\]\[[HTML](../notes/Lecture5/R.html)\] | [HW1](../HW/HW1/HW1.pdf) |
 | **01/30** R basics | **02/01** R basics (cont.) | **02/03** Lab 01 \[[Rmd](../notes/Lecture8/lab_01_preparation.Rmd)\]\[[HTML](../notes/Lecture8/lab_01_preparation.html)\] | |
-| **02/06** simple linear regression | | | |
+| **02/06** simple linear regression | **02/08** simple correlation | **02/10** Lab 2 \[[Rmd](../notes/Lecture10/lab_02_SLR_to_fill.Rmd)\]\[[HTML](../notes/Lecture10/lab_02_SLR_to_fill.html)\] | |
 
