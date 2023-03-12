@@ -34,5 +34,6 @@ Topics:
 | **02/20** _no class_ (Mardi Gras Holiday) | **02/22** multiple linear regression | **02/24** Lab 4 \[[Rmd](../notes/Lecture15/Lab_04_to_fill.Rmd)\]\[[HTML](../notes/Lecture15/Lab_04_to_fill.html)\]  | |
 | **02/27** multiple correlation | **03/01** dummy variable regression |  **03/03** Lab 5 \[[Rmd](../notes/Lecture18/Lab_05.Rmd)\]\[[HTML](../notes/Lecture18/Lab_05.html)\] | |
 | **03/06** interactions | **03/08** midterm exam | **03/10** midterm continues | |
+| **03/13** unusual data | | | [HW3](../HW/HW3/HW3.pdf)|
 | **04/03** _no class_ (spring break) | **04/05** _no class_ (spring break) | **04/07** _no class_ (spring break)| |
 
