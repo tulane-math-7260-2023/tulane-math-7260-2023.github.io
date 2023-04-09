@@ -36,6 +36,7 @@ Topics:
 | **03/06** interactions | **03/08** midterm exam | **03/10** midterm continues | |
 | **03/13** unusual data | **03/15** midterm review | **03/17** Lab 6 \[[Rmd](../notes/Lecture22/Lab_06_to_fill.Rmd)\]\[[HTML](../notes/Lecture22/Lab_06_to_fill.html)\] | [HW3](../HW/HW3/HW3.pdf)|
 | **03/20** non-normality | **03/20** nonlinearity | **03/20** data transformation | |
-| **03/27** collinearity | **03/29** principle component analysis |  | |
+| **03/27** collinearity | **03/29** principle component analysis | **03/31** ridge regression | |
 | **04/03** _no class_ (spring break) | **04/05** _no class_ (spring break) | **04/07** _no class_ (spring break)| |
+| **0410** lasso regression and model selection | | | |
 
