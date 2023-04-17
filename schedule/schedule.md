@@ -39,5 +39,5 @@ Topics:
 | **03/27** collinearity | **03/29** principle component analysis | **03/31** ridge regression | |
 | **04/03** _no class_ (spring break) | **04/05** _no class_ (spring break) | **04/07** _no class_ (spring break)| |
 | **04/10** lasso regression and model selection | **04/12** one-way anova | **04/14** Lab 7 \[[Rmd](../notes/Lecture28/Lab_07_to_fill.Rmd)\]\[[HTML](../notes/Lecture28/Lab_07_to_fill.html)\] | |
-| **04/17** two-way anova | | | |
+| **04/17** two-way anova | **04/19** ancova | **04/21**  Lab 8 \[[Rmd](../notes/Lecture31/Lab_08_to_fill.Rmd)\]\[[HTML](../notes/Lecture31/Lab_08_to_fill.html)\] | |
 
